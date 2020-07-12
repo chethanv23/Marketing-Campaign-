@@ -18,4 +18,6 @@ Steps followed in the project:
 
   • Performed Desision tree Algorithm on the data set and evaluated the model with the help of confusion matrix.
 
-Model accuracy stands at 82.26% , with specificity 71.51%.
+Model accuracy stands at 82.26% with specificity 36% 
+
+business ojective demands higher specificity , so used Near miss Algorithm to enhance the specificity to 82%
